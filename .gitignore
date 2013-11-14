@@ -10,3 +10,10 @@ libs
 /.FlexUnitSettings/FlexUnitApplicationLastRun.xml
 /.FlexUnitSettings/FlexUnitApplicationLastSelection.xml
 /src/FlexUnitApplication.mxml
+
+# Intellij IDEA project files
+*.iml
+*.ipr
+*.iws
+.idea/
+target/
